@@ -2,7 +2,7 @@
 
 ### Language / Idioma
 * [English](#english)
-* [Português](#portugues)
+* [Português](#português)
 
 ---
 
