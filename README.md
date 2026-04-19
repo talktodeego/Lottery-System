@@ -53,7 +53,7 @@ O objetivo é simular o funcionamento de uma loteria, onde são sorteados 6 (sei
 
 * **Ferramenta de versionamento:** Git.
 
-## 🎮 Como Executar
+## Como Executar
 
 1. Clone o repositório:
 `git clone https://github.com/talktodeego/Lottery-System.git`
